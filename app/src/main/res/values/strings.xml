@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">哔嗝资讯</string>
+    <string name="refresh">刷新</string>
+    <string name="setting">设置</string>
+    <string name="quit">退出</string>
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="skip">跳过</string>
+    <string name="loading...">正在加载...</string>
+    <string name="homepage">首页</string>
+    <string name="history">历史</string>
+    <string name="favorite">收藏</string>
+    <string name="unregistered">已登录</string>
+    <string name="back_to_top">回到顶部</string>
+    <string name="welcome">Garbagemayor presents&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Welcome to 702B</string>
+    <string name="category">分类</string>
+    <string name="wait_for_input">请输入搜索内容</string>
+    <string name="textsize">字体大小</string>
+    <string name="spread">展开</string>
+    <string name="sample_sentence">BigeNews\n哔嗝资讯：大新闻\n苟利国家生死矣\n岂因祸福避趋之</string>
+    <string name="category_option">筛选分类</string>
+    <string name="gogogo">立即生效</string>
+    <string name="clear_history">清除缓存</string>
+    <string name="nightstyle">夜间模式</string>
+
+</resources>
