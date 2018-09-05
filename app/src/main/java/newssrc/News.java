@@ -1,4 +1,4 @@
-package garbagemayor.bigenews.newssrc;
+package newssrc;
 
 public class News {
     private PageItem[] list;

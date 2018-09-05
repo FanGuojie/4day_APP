@@ -41,10 +41,10 @@ import java.util.Date;
 import java.util.List;
 
 import garbagemayor.bigenews.R;
-import garbagemayor.bigenews.newssrc.DatabaseLoader;
-import garbagemayor.bigenews.newssrc.NewsItem;
-import garbagemayor.bigenews.newssrc.PagePlus;
-import garbagemayor.bigenews.newssrc.PageItem;
+import newssrc.DatabaseLoader;
+import newssrc.NewsItem;
+import newssrc.PagePlus;
+import newssrc.PageItem;
 
 public class MainActivity extends AppCompatActivity {
 

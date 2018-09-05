@@ -11,6 +11,7 @@ import android.text.Html;
 import android.view.Display;
 import android.widget.TextView;
 
+import garbagemayor.bigenews.R;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStream;

@@ -1,4 +1,4 @@
-package garbagemayor.bigenews.newssrc;
+package newssrc;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -27,9 +27,9 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import garbagemayor.bigenews.newssrc.NewsItem;
-import garbagemayor.bigenews.newssrc.PageItem;
-import garbagemayor.bigenews.pageprovider.NewsList;
+import newssrc.NewsItem;
+import newssrc.PageItem;
+import pageprovider.NewsList;
 
 public class DatabaseLoader{
     final String TAG = "DatabaseLoader";

@@ -15,7 +15,8 @@ import android.widget.TextView;
 
 import java.util.List;
 
-import garbagemayor.bigenews.newssrc.PageItem;
+import newssrc.PageItem;
+import garbagemayor.bigenews.R;
 
 /*
  *  新闻浏览的RecyclerView的每一条新闻的嵌套的CardView的适配器

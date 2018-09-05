@@ -1,4 +1,4 @@
-package garbagemayor.bigenews.newssrc;
+package newssrc;
 
 import android.util.Log;
 
@@ -12,8 +12,6 @@ import java.io.InputStreamReader;
 import java.io.PrintStream;
 import java.net.URL;
 import java.net.URLConnection;
-
-import garbagemayor.bigenews.MainActivity;
 
 public class PagePlus {
     public static String TAG = "PagePlusTag";

@@ -9,6 +9,7 @@ import android.widget.GridView;
 import android.widget.ImageView;
 import android.widget.PopupWindow;
 import android.widget.Toast;
+import garbagemayor.bigenews.R;
 
 import com.bm.library.PhotoView;
 

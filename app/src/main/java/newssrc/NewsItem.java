@@ -1,4 +1,4 @@
-package garbagemayor.bigenews.newssrc;
+package newssrc;
 
 import android.util.Log;
 

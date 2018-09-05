@@ -12,7 +12,8 @@ import android.widget.TextView;
 
 import java.util.List;
 
-import garbagemayor.bigenews.newssrc.PageItem;
+import newssrc.PageItem;
+import garbagemayor.bigenews.R;
 
 /*
  *  新闻浏览的RecyclerView每一条新闻的嵌套的CardView里面横向图片列表的适配器

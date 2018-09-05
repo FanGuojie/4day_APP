@@ -34,9 +34,9 @@ import java.net.URL;
 
 import at.markushi.ui.CircleButton;
 import garbagemayor.bigenews.R;
-import garbagemayor.bigenews.newssrc.DatabaseLoader;
-import garbagemayor.bigenews.newssrc.NewsItem;
-import garbagemayor.bigenews.newssrc.PagePlus;
+import newssrc.DatabaseLoader;
+import newssrc.NewsItem;
+import newssrc.PagePlus;
 
 public class ViewActivity extends AppCompatActivity {
 

@@ -10,6 +10,7 @@ import android.view.ViewTreeObserver;
 import android.view.WindowManager;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
+import garbagemayor.bigenews.R;
 import android.widget.TextView;
 
 public class WelcomeActivity extends AppCompatActivity {
